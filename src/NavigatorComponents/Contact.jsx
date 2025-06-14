@@ -30,7 +30,7 @@ const Contact = () => {
     }
 
     try {
-      const res = await fetch("https://getform.io/f/bvryrvdb", {
+      const res = await fetch("https://getform.io/f/bllzgrrb", {
         method: "POST",
         body: data,
       });
