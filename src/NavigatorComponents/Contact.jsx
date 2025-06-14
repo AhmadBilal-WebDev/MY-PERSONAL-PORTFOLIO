@@ -55,7 +55,7 @@ const Contact = () => {
       <section className="bg-[#e0e1dd] py-10 md:py-[5rem] px-5 md:flex md:justify-between md:items-center md:gap-10 md:px-12">
         <div className="md:w-1/2">
           <p className="text-[1.5rem] font-serif md:text-[2rem]">
-            Let's Connect And Talk Abiut Opportunities!
+            Let's Connect And Talk About Opportunities!
           </p>
 
           <p className="mt-10 md:mt-8 font-serif text-[1.1rem]">Follow Me</p>
